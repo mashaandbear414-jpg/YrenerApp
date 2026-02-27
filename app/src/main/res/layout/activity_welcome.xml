@@ -49,14 +49,13 @@
             android:padding="24dp">
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Добро пожаловать"
                 android:textSize="20sp"
                 android:textColor="#FFFFFF"
                 android:textStyle="bold"
                 android:gravity="center"
-                android:layout_width="match_parent"
                 android:layout_marginBottom="4dp"/>
 
             <TextView
